@@ -1,1 +1,1 @@
-# denta-clinic
+# dental-clinic
